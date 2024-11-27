@@ -10,7 +10,7 @@
     <Response/>
   </PostFlow>
   <HTTPProxyConnection>
-    <BasePath>/hello-world</BasePath>
+    <BasePath>/cicdtest</BasePath>
   </HTTPProxyConnection>
   <RouteRule name="default">
     <TargetEndpoint>default</TargetEndpoint>
